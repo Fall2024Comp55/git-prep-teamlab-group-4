@@ -1,3 +1,5 @@
+//Comment
+//Comment number 2
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
