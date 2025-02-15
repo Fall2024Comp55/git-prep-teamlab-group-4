@@ -1,5 +1,3 @@
-//Comment
-//Comment number 2
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
@@ -15,7 +13,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage(ROBOT_PNG, 200, 100);
 		add(robot);
-		GLabel label = new GLabel("FOOD", 200, 400);
+		GLabel label = new GLabel("hackslash", 200, 400);
 		add(label);
 	}
 	
